@@ -1,0 +1,251 @@
+        if game.PlaceId == 286090429 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+        print("Arsenal Script Loaded")
+        end
+        
+        if game.PlaceId == 6872265039 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+        print("Bedwars Script Loaded")
+        end
+        
+        if game.PlaceId == 7560156054 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/script/main/clicker%20simulator"))()
+        print("Clicker Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 7896264844 then
+        loadstring(game:HttpGet('https://gist.githubusercontent.com/stellar-4242/69204e23fdd0bb4e7940b7e10bbd8bdc/raw/ea6c98d464e9c5b11041d318f7c8b49d4da7ae27/GA.lua'))()
+        print("Find The Markers Script Loaded")
+        end
+        
+        if game.PlaceId == 606849621 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+        print("Jailbreak Script Loaded")
+        end
+        
+        if game.PlaceId == 4616652839 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SxnwDev/Web/main/scripts/SnxwHub.txt"))() 
+        print("Shindo Life Script Loaded")
+        end
+        
+        if game.PlaceId == 8448735476 then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+        print("DBZ Adventures Unleashed Script Loaded")
+        end
+        
+        if game.PlaceId == 8357510970 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/insanedude59/AnimePunchingSim/main/OpenSource"))()
+        print("Anime Punching Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 2753915549 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xDepressionx/Free-Script/main/BloxFruit.lua"))()
+        print("Blox Fruit Script Loaded")
+        end
+        
+        if game.PlaceId == 2512643572 then
+        loadstring(game:HttpGet(("https://textbin.net/raw/t4jqgjsvfi"),true))()
+        print("Bubble Gum Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 6284583030 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/MrKix/nullptrpsx/main/psxloadstring.lua"))()
+        print("Pet Simulator X Script Loaded")
+        end
+        
+        if game.PlaceId == 3623096087 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/main/MuscleLegends.lua"))()
+        print("Muscle Legends Script Loaded")
+        end
+        
+        if game.PlaceId == 3652625463 then 
+        loadstring(game:HttpGet(('https://pastebin.com/raw/zQ9zFW0f'),true))()
+        print("Lifting Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 1537690962 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua"))()
+        print("Bee Swarm Simulator Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 3101667897 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/VolpeSandrix/main/Legend%20Of%20Speed.md"))()
+        print("Legends Of Speed Script Loaded")
+        end
+        
+        if game.PlaceId == 3527629287 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/VolpeSandrix/main/Big%20Paintball.md"))()
+        print("Big Paintball Script Loaded")
+        end
+        
+        if game.PlaceId == 155615604 then 
+        loadstring(game:HttpGet(('https://pastebin.com/raw/mHfK0Xk4'),true))()
+        print("Prison Life Script Loaded")
+        end
+            
+        if game.PlaceId == 4972091010 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Zombie%20Uprising/ZombieUprisingGUI"))()
+        print("Zombie Uprising Script Loaded")
+        end
+            
+        if game.PlaceId == 1240123653 then 
+        loadstring(game:HttpGet("https://pastebin.com/raw/LUprkdQC", true))()
+        print("Zombie Attack Script Loaded")
+        end
+            
+        if game.PlaceId == 5977280685 then 
+        loadstring(game:HttpGet("https://sinnyno1.github.io/King-Hack/Script/Ninja-Legend-2.lua",true))();
+        print("Ninja Legends 2 Script Loaded")
+        end
+        
+        if game.PlaceId == 1224212277 then 
+        --[[
+            ZEPHYR X
+         
+        
+            Scripting - SYL#0011
+        
+            LOADER
+        
+        ]]
+        pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ECLIPSEXHUB/ECLIPSE-X/main/ECLIPSE%20X.txt", true))()
+        end)
+        print("Mad City Script Loaded")
+        end
+        
+        if game.PlaceId == 1345139196 then 
+        loadstring(game:HttpGet("http://void-scripts.com/Scripts/treasureHuntSim.lua"))()
+        print("Treasure Hunt Simulator Script Loaded")
+        end
+        
+        
+        if game.PlaceId == 1417427737 then 
+        loadstring(game:HttpGet("https://textbin.net/raw/nbvteettf3"))()
+        print("Mining Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 4872321990 then 
+        loadstring(game:HttpGet("http://void-scripts.com/Scripts/islands_new.lua"))()
+        print("Islands Script Loaded")
+        end
+        
+        if game.PlaceId == 4623386862 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Piggy'))()
+        print("Piggy Script Loaded")
+        end
+        
+        if game.PlaceId == 920587237 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+        print("Adopt Me Script Loaded")
+        end
+        
+        if game.PlaceId == 6769764667 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/AnonymousErrors/hub1/main/main.lua"))()
+        print("Factory Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 621129760 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Kings-Hub/main/Hub'))()
+        print("KAT Script Loaded")
+        end
+        
+        if game.PlaceId == 142823291 then 
+        getgenv().mainKey = "nil"
+        
+        local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+        print("Murder Mystery 2 Script Loaded")
+        end
+            
+        if game.PlaceId == 6447798030 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/VolpeSandrix/main/Funky%20Friday.md"))()
+        print("Funky Friday Script Loaded")
+        end
+            
+        if game.PlaceId == 537413528 then 
+        loadstring(game:HttpGet("https://pastebin.com/raw/YJTjn49L"))()
+        print("Build A Boat For Treasure Script Loaded")
+        end
+        
+        if game.PlaceId == 6299805723 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Discord0000/Zer0Hub/main/MainScript.lua"))()
+        print("Anime Fighters Script Loaded")
+        end
+        
+        if game.PlaceId == 3823781113 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ExtremeAntonis/KeySystemUI/main/KeySystemUI-Obfuscated.lua"))()
+        print("Saber Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 4246487209 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/GrubHub/main/free/BFS.lua"))()
+        print("Boss Fighting Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 3260590327 then 
+        loadstring(game:HttpGet("https://banbus.cf/scripts/autofarmconfig"))()  
+        print("Tower Defense Simulator Script Loaded")
+        end
+        
+        if game.PlaceId == 3056526277 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/VolpeSandrix/main/Build%20And%20Surival.md"))()  
+        print("Build And Survive Loaded")
+        end
+        
+        if game.PlaceId == 2551991523 then
+        --[[
+            ZEPHYR X
+         
+        
+            Scripting - SYL#0011
+        
+            LOADER
+        
+        ]]
+        pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ECLIPSEXHUB/ECLIPSE-X/main/ECLIPSE%20X.txt", true))()
+        end)
+        print("Broken-Bones-IV Script Loaded")
+        end
+        
+        if game.PlaceId == 1554960397 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/script/main/README.md"))();
+        print("Car Dealership Tycoon Loaded")
+        end
+        
+        if game.PlaceId == 4410049285 then
+        loadstring(game:HttpGet("https://pastebin.com/raw/NHXHxHzY", true))()
+        print("Driving Simulator Loaded")
+        end
+        
+        if game.PlaceId == 4003872968 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/radjahfromdiscord/giantsurvival/master/gui"))()
+        print("Giant Survival Loaded")
+        end
+        
+        if game.PlaceId == 8592863835 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Kederal/script.gg/main/loader.lua"))()
+        print("Magnet Simulator 2 Loaded")
+        end
+        
+        if game.PlaceId == 3956818381 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/VolpeSandrix/main/README.md",true))();
+        print("Ninja Legends Script Loaded")
+        end
+        
+        if game.PlaceId == 6125809531 then 
+        getgenv().autofarm = true
+        getgenv().tpseed = 100
+        loadstring(game:HttpGet("https://leadmarker.xyz/Scripts/AttackOnTitties.lua"))()
+        print("Untitled Attack On Titan Script Loaded")
+        end
+        
+        if game.PlaceId == 4566572536 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/VolpeSandrix/VolpeSandrix/main/Legend%20Of%20Speed.md"))()
+        print("Vehicle Legends")
+        end
+        
+        if game.PlaceId == 418574428 then 
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/EuHellscytheLua/AOTV0.01/master/EusAOTUi.lua')))()
+        print("Downfall Legends")
+        end
